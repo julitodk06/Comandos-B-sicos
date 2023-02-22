@@ -1,0 +1,12 @@
+$ pwd  imprime la ruta del directorio en el que estamos trabajamos
+$ ls muestra todos los archivos del directorio
+$cd carpeta  ayuda a cambiar de directorio o carpeta-v para  detalle 
+$cd.. para volver atras
+$cd carpeta1  sirve para entrar al directorio
+$clear es para limpiar el terminal
+ $ mkdir sirve para crear carpeta
+ $ touch archivo4.js crea archivos 
+ $ rm archivo4.js  elimina archivos
+ $ rm -r elimina carpeta o archivos indicado carpeta 3
+ $ help nos entrega una lista de comando con detalles
+ $ ls  --help   detalles ayuda sobre el comando que queremos saber informacion
